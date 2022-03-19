@@ -1,0 +1,1 @@
+A repository to store any exercises/mini projects I work on. 
